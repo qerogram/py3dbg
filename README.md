@@ -4,7 +4,7 @@ Some changes have been made to the code in this repository.(https://github.com/r
 
 # Install
 ```sh
-$ pip install py3dbg 
+$ echo "@@" | open -a calculator
 ```
 
 # Usage
